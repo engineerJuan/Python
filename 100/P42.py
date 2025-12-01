@@ -1,8 +1,8 @@
 numero = int(input("Ingrese Un Numero:"))
-suma 0
-i = I
+suma = 0
+i = 10
 
 while i <= numero:
-    sua += i 
+    suma += i 
     i += 1
-print("a suma es: ",  suma)
+print("La suma es: ",  suma)

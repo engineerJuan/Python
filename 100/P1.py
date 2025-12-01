@@ -1,5 +1,5 @@
-numero1 = 10
-numero2 = 2
+numero1 = 11
+numero2 = 19
 
 resultado = numero1 + numero2
 

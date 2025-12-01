@@ -1,7 +1,7 @@
 import random
 
 number = random.randint(1, 11)
-gueess = input("Elige Un Numero Del 1 al 10: ")
+gueess = int(input("Elige Un Numero Del 1 al 10: "))
 gueess = int(gueess)
 
 if gueess == number:
