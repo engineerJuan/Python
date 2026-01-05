@@ -1,4 +1,4 @@
-numeros = [2,6,4,3,10,5]
+numeros = [9,9,9,9,10,10,10]
 promedio = sum(numeros) / len(numeros)
 
 print("El Promedio Es: ", promedio)
