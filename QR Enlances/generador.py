@@ -16,7 +16,7 @@ def generar_qr_simple(datos, ruta_salida):
 
 if __name__ == "__main__":
     # Tu enlace web
-    texto_qr = "https://mxdxvxlopxr.netlify.app/"
+    texto_qr = "https://perfil-dev-software.vercel.app/"
     archivo_salida = "QR.png"
 
     generar_qr_simple(texto_qr, archivo_salida)
